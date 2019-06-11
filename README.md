@@ -2,7 +2,7 @@
   
 This provides with frontend and the back end of the e-commerce website.  
   
-Technologies used:
+Technologies used:  
 a) SQL  
 b) PHP  
 c) HTML  
