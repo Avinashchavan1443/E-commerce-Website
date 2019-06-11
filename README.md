@@ -9,7 +9,7 @@ c) HTML
 d) CSS  
 e) JavaScript  
 
-Features:
+Features:  
 a) login/logout.  
 b) cart (add/remove/increase items).  
 c) displays product with specfications.    
